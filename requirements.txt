@@ -1,0 +1,13 @@
+speechrecognition
+python-dotenv
+pyttsx3
+openai
+langchain
+pygame
+pyaudio
+langchain_community
+fastapi
+uvicorn
+langserve
+sse_starlette
+pyqt6
